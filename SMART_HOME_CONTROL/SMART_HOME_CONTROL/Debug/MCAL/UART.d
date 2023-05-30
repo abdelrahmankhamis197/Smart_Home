@@ -1,0 +1,10 @@
+MCAL/UART.d MCAL/UART.o: ../MCAL/UART.c ../LIB/MEMMAP.h ../LIB/STDTYPES.h \
+ ../LIB/UTILS.h ../MCAL/UART.h
+
+../LIB/MEMMAP.h:
+
+../LIB/STDTYPES.h:
+
+../LIB/UTILS.h:
+
+../MCAL/UART.h:

@@ -1,0 +1,10 @@
+HAL/SERVO.d HAL/SERVO.o: ../HAL/SERVO.c ../LIB/STDTYPES.h ../LIB/MEMMAP.h \
+ ../MCAL/TIMERS.h ../HAL/SERVO.h
+
+../LIB/STDTYPES.h:
+
+../LIB/MEMMAP.h:
+
+../MCAL/TIMERS.h:
+
+../HAL/SERVO.h:
